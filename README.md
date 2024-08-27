@@ -7,6 +7,9 @@ List of Interesting Bookmarks
 - Reinforcement Learning
 	- [Code as Policies](https://code-as-policies.github.io/)
 
+- Coding
+	- [Unix Philosphy](https://en.wikipedia.org/wiki/Unix_philosophy)
+
 - Podcasts
 	- Gradient Dissent by Weights and Baises
 	- Lex Fridman
