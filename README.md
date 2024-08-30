@@ -9,6 +9,8 @@ List of Interesting Bookmarks
 
 - Coding
 	- [Unix Philosphy](https://en.wikipedia.org/wiki/Unix_philosophy)
+	- [Dependency Wrapping](https://levelup.gitconnected.com/why-you-should-often-wrap-your-dependencies-5fced2999616)
+	- [How I Program in C (advise from an expert)](https://youtu.be/443UNeGrFoM?si=hYXrLLBno1O0vnXd)
 
 - Podcasts
 	- Gradient Dissent by Weights and Baises
