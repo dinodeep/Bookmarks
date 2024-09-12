@@ -1,6 +1,9 @@
 # Bookmarks
 List of Interesting Bookmarks
 
+- Computer Architecture
+	- [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/#manual_instr_tab)
+
 - OS
 	- [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
 
