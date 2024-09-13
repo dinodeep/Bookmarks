@@ -3,6 +3,7 @@ List of Interesting Bookmarks
 
 - Computer Architecture
 	- [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/#manual_instr_tab)
+	- [Godbolt Compiler Explorer](https://godbolt.org/)
 
 - OS
 	- [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
