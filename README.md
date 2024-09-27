@@ -7,6 +7,7 @@ List of Interesting Bookmarks
 - Compilers
 	- [Godbolt Compiler Explorer](https://godbolt.org/)
 	- [Compiler Optimizations](https://compileroptimizations.com/index.html)
+	- [x86 mov in Turing Complete](https://web.archive.org/web/20190331191157/https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf)
 
 - OS
 	- [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
