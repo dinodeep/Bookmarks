@@ -3,11 +3,12 @@ List of Interesting Bookmarks
 
 - Computer Architecture
 	- [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/#manual_instr_tab)
+	- [x86 mov in Turing Complete](https://web.archive.org/web/20190331191157/https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf)
+	- [Felix Cloutier x86 Instruction Reference](https://www.felixcloutier.com/x86)
 
 - Compilers
 	- [Godbolt Compiler Explorer](https://godbolt.org/)
 	- [Compiler Optimizations](https://compileroptimizations.com/index.html)
-	- [x86 mov in Turing Complete](https://web.archive.org/web/20190331191157/https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf)
 
 - OS
 	- [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
