@@ -21,6 +21,9 @@ List of Interesting Bookmarks
 	- [Dependency Wrapping](https://levelup.gitconnected.com/why-you-should-often-wrap-your-dependencies-5fced2999616)
 	- [How I Program in C (advise from an expert)](https://youtu.be/443UNeGrFoM?si=hYXrLLBno1O0vnXd)
 
+- Networking
+    - [FCC National Broadband Map](https://broadbandmap.fcc.gov/home)
+
 - Podcasts
 	- Gradient Dissent by Weights and Baises
 	- Lex Fridman
